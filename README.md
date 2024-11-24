@@ -3,11 +3,10 @@
 <h3 align="center">"Passionate Software Developer | Lifelong Learner | Driven by Innovation and Continuous Growth in Tech"</h3>
 
 <p>
-  <img src="https://drive.google.com/uc?id=1GDaDOr_7yIiMUsFQeOPjR0qlZXviO2D-" 
+  <img src="https://drive.google.com/uc?id=1qANPuaBmFt7Nj3piwhoEHaMMlFdbKh1l" 
        alt="banner" 
-       style="width: 100%; height: 500px; object-fit: cover;" />
+       style="width: 100%; height: 400px; object-fit: cover;" />
 </p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyog3921&label=Profile%20views&color=0e75b6&style=flat" alt="suyog3921" /> </p>
 
